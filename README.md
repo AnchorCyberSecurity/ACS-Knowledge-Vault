@@ -18,7 +18,7 @@ We are a team of cybersecurity professionals dedicated to staying ahead of the c
 
 ## Contributing
 
-We welcome contributions from the community! If you have a valuable resource you'd like to share, please see the [Contribution Guide](link_to_contribution_guide) for details.
+We welcome contributions from the community! If you have a valuable resource you'd like to share, please see the [Contribution Guide]([link_to_contribution_guide](https://github.com/AnchorCyberSecurity/ACS-Knowledge-Vault/blob/main/CONTRIBUTING.md)) for details.
 
 ## License
 
