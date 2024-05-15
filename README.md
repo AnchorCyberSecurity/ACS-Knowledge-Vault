@@ -30,3 +30,80 @@ We hope you find this resource helpful!
 
 [Anchor Cyber Security](https://www.anchorcybersecurity.com)
 
+
+# News & Blogs
+
+Stay ahead of the curve with these informative security blogs and news outlets:
+
+- [Schneier on Security Blog](https://www.schneier.com/blog/calendar.html/)
+- [Krebs on Security](https://krebsonsecurity.com/)
+- [Threatpost](https://threatpost.com/)
+- [SecurityWeek](https://www.securityweek.com/)
+- [The Hacker News](https://thehackernews.com/)
+
+# Learning Resources
+
+Expand your cybersecurity knowledge with these valuable resources:
+
+## Tutorials:
+
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+- [TryHackMe](https://tryhackme.com/login)
+- [OWASP Web Security Academy](https://owasp-academy.teachable.com/)
+
+## Courses:
+
+- [SANS Institute Information Security Reading Room](https://www.sans.org/)
+- [Cybrary](https://www.cybrary.it/)
+- [Udemy - Cybersecurity Courses](https://www.udemy.com/topic/cyber-security/)
+- [Coursera - Cybersecurity Specializations](https://www.coursera.org/courses?query=security%20certification)
+
+## Books:
+
+- "The Hacker Playbook: Practical Guide to Penetration Testing" by Peter Kim
+- "Cryptography Engineering: Design Principles and Practical Applications" by Niels Ferguson, Bruce Schneier, and Tadayoshi Kohno
+- "Hands-On Ethical Hacking and Network Defense" by Michael Gregg
+
+## Documentation:
+
+- [National Institute of Standards and Technology (NIST) Cybersecurity Framework](https://www.nist.gov/cyberframework)
+- [Center for Internet Security (CIS) Controls](https://www.cisecurity.org/controls)
+- [OWASP Top 10 Web Application Security Risks](https://owasp.org/www-project-top-ten/)
+
+# Tools & Frameworks
+
+Explore these open-source tools and frameworks to enhance your security posture:
+
+- Kali Linux (Penetration Testing Distribution)
+- Metasploit Framework (Penetration Testing Framework)
+- Wireshark (Network Protocol Analyzer)
+- Nmap (Network Scanner)
+- Open Web Application Security Project (OWASP) ZAP (Web Application Security Scanner)
+- Prowler (open-source security tool designed to assess, audit, and improve the security posture of cloud environments)
+
+# Podcasts & Videos
+
+Listen and learn from these informative podcasts and video channels:
+
+## Podcasts:
+
+- [Security Now](https://twit.tv/shows/security-now)
+- [Risky Business](https://risky.biz/)
+- [Darknet Diaries](https://darknetdiaries.com/)
+
+## Video Channels:
+
+- [SimplyCyber (Daily Cyber Security Discussions)](https://www.youtube.com/@SimplyCyber)
+- [CISO Series (Excellent Discussions!!)](https://www.youtube.com/@CISOSeries)
+- [Black Hat USA (Conference Talks)](https://www.youtube.com/user/BlackHatOfficialyT)
+- [DEF CON (Conference Talks)](https://www.youtube.com/user/defconconference)
+- [Null Byte](https://www.youtube.com/@NullByteWHT)
+- [John Hammond](https://www.youtube.com/@_JohnHammond)
+
+# Conferences & Events
+
+Connect with the cybersecurity community at these upcoming conferences and events:
+
+- [Black Hat USA](https://www.blackhat.com/us-23/)
+- [DEF CON]([https://defcon.org/]) (Dates vary)
+- [RSA Conference]([https://www.rsaconference.com/])
