@@ -35,11 +35,11 @@ We hope you find this resource helpful!
 
 Stay ahead of the curve with these informative security blogs and news outlets:
 
-- [Schneier on Security Blog](https://www.schneier.com/blog/calendar.html/)
 - [Krebs on Security](https://krebsonsecurity.com/)
-- [Threatpost](https://threatpost.com/)
+- [Schneier on Security Blog](https://www.schneier.com/blog/calendar.html/)
 - [SecurityWeek](https://www.securityweek.com/)
 - [The Hacker News](https://thehackernews.com/)
+- [Threatpost](https://threatpost.com/)
 
 # Learning Resources: :books:
 
@@ -47,9 +47,12 @@ Expand your cybersecurity knowledge with these valuable resources:
 
 ## Tutorials: : :books:
 
-- [PortSwigger Web Security Academy](https://portswigger.net/web-security)
-- [TryHackMe](https://tryhackme.com/login)
+- [HTB](https://www.hackthebox.com/)
 - [OWASP Web Security Academy](https://owasp-academy.teachable.com/)
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+- [PwnedLabs](https://pwnedlabs.io)
+- [TryHackMe](https://tryhackme.com/login)
+- [VulnHub](https://www.vulnhub.com/)
 
 ## Courses: :books:
 
@@ -63,23 +66,24 @@ Expand your cybersecurity knowledge with these valuable resources:
 - "The Hacker Playbook: Practical Guide to Penetration Testing" by Peter Kim
 - "Cryptography Engineering: Design Principles and Practical Applications" by Niels Ferguson, Bruce Schneier, and Tadayoshi Kohno
 - "Hands-On Ethical Hacking and Network Defense" by Michael Gregg
+- "Hacking APIs" by Corey J. Ball
 
 ## Documentation: :books:
 
-- [National Institute of Standards and Technology (NIST) Cybersecurity Framework](https://www.nist.gov/cyberframework)
 - [Center for Internet Security (CIS) Controls](https://www.cisecurity.org/controls)
+- [National Institute of Standards and Technology (NIST) Cybersecurity Framework](https://www.nist.gov/cyberframework)
 - [OWASP Top 10 Web Application Security Risks](https://owasp.org/www-project-top-ten/)
 
 # Tools & Frameworks: :wrench:
 
 Explore these open-source tools and frameworks to enhance your security posture:
 
-- Kali Linux (Penetration Testing Distribution)
-- Metasploit Framework (Penetration Testing Framework)
-- Wireshark (Network Protocol Analyzer)
-- Nmap (Network Scanner)
-- Open Web Application Security Project (OWASP) ZAP (Web Application Security Scanner)
-- Prowler (open-source security tool designed to assess, audit, and improve the security posture of cloud environments)
+- [Kali Linux (Penetration Testing Distribution](https://www.kali.org/)
+- [Metasploit Framework (Penetration Testing Framework](https://www.metasploit.com/)
+- [Nmap (Network Scanner](https://nmap.org/)
+- [Open Web Application Security Project (OWASP) ZAP (Web Application Security Scanner](https://www.zaproxy.org/)
+- [Prowler (Assess, Audit, and Improve the security posture of cloud environments](https://prowler.com/)
+- [Wireshark (Network Protocol Analyzer](https://www.wireshark.org/)
 
 # Podcasts & Videos: :tv:
 
@@ -87,9 +91,18 @@ Listen and learn from these informative podcasts and video channels:
 
 ## Podcasts: :speaker:
 
+- Cloud Security Podcast
+- CISA Cybersecurity Alerts
+- CISO's Secrets
+- CISO Series Podcast
+- CISO Talks
+- Cyber Security Headlines
 - [Darknet Diaries](https://darknetdiaries.com/)
+- EXecutive Security
 - [Risky Business](https://risky.biz/)
+- SANS Internet Storm Center's Daily Network Security News
 - [Security Now](https://twit.tv/shows/security-now)
+- The Audit
 
 ## Video Channels: :video_camera:
 
