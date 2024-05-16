@@ -87,18 +87,21 @@ Listen and learn from these informative podcasts and video channels:
 
 ## Podcasts:
 
-- [Security Now](https://twit.tv/shows/security-now)
-- [Risky Business](https://risky.biz/)
 - [Darknet Diaries](https://darknetdiaries.com/)
+- [Risky Business](https://risky.biz/)
+- [Security Now](https://twit.tv/shows/security-now)
 
 ## Video Channels:
 
-- [SimplyCyber (Daily Cyber Security Discussions)](https://www.youtube.com/@SimplyCyber)
 - [CISO Series (Excellent Discussions!!)](https://www.youtube.com/@CISOSeries)
-- [Black Hat USA (Conference Talks)](https://www.youtube.com/user/BlackHatOfficialyT)
-- [DEF CON (Conference Talks)](https://www.youtube.com/user/defconconference)
-- [Null Byte](https://www.youtube.com/@NullByteWHT)
+- [David Bombal](https://www.youtube.com/@davidbombal)
+- [Gary Ruddell)](https://www.youtube.com/@garyruddellofficial)
 - [John Hammond](https://www.youtube.com/@_JohnHammond)
+- [NahamSec](https://www.youtube.com/@NahamSec)
+- [NetworkChuck](https://www.youtube.com/@NetworkChuck)
+- [SimplyCyber (Daily Cyber Security Discussions)](https://www.youtube.com/@SimplyCyber)
+- [UnixGuy | Cyber Security)](https://www.youtube.com/@unixguy)
+- 
 
 # Conferences & Events
 
