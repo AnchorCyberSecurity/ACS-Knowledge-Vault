@@ -31,7 +31,7 @@ We hope you find this resource helpful!
 [Anchor Cyber Security](https://www.anchorcybersecurity.com)
 
 
-# News & Blogs
+# News & Blogs: :books:
 
 Stay ahead of the curve with these informative security blogs and news outlets:
 
@@ -41,36 +41,36 @@ Stay ahead of the curve with these informative security blogs and news outlets:
 - [SecurityWeek](https://www.securityweek.com/)
 - [The Hacker News](https://thehackernews.com/)
 
-# Learning Resources
+# Learning Resources: :books:
 
 Expand your cybersecurity knowledge with these valuable resources:
 
-## Tutorials:
+## Tutorials: : :books:
 
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 - [TryHackMe](https://tryhackme.com/login)
 - [OWASP Web Security Academy](https://owasp-academy.teachable.com/)
 
-## Courses:
+## Courses: :books:
 
 - [SANS Institute Information Security Reading Room](https://www.sans.org/)
 - [Cybrary](https://www.cybrary.it/)
 - [Udemy - Cybersecurity Courses](https://www.udemy.com/topic/cyber-security/)
 - [Coursera - Cybersecurity Specializations](https://www.coursera.org/courses?query=security%20certification)
 
-## Books:
+## Books: :books:
 
 - "The Hacker Playbook: Practical Guide to Penetration Testing" by Peter Kim
 - "Cryptography Engineering: Design Principles and Practical Applications" by Niels Ferguson, Bruce Schneier, and Tadayoshi Kohno
 - "Hands-On Ethical Hacking and Network Defense" by Michael Gregg
 
-## Documentation:
+## Documentation: :books:
 
 - [National Institute of Standards and Technology (NIST) Cybersecurity Framework](https://www.nist.gov/cyberframework)
 - [Center for Internet Security (CIS) Controls](https://www.cisecurity.org/controls)
 - [OWASP Top 10 Web Application Security Risks](https://owasp.org/www-project-top-ten/)
 
-# Tools & Frameworks
+# Tools & Frameworks: :wrench:
 
 Explore these open-source tools and frameworks to enhance your security posture:
 
@@ -81,11 +81,11 @@ Explore these open-source tools and frameworks to enhance your security posture:
 - Open Web Application Security Project (OWASP) ZAP (Web Application Security Scanner)
 - Prowler (open-source security tool designed to assess, audit, and improve the security posture of cloud environments)
 
-# Podcasts & Videos
+# Podcasts & Videos: :tv:
 
 Listen and learn from these informative podcasts and video channels:
 
-## Podcasts:
+## Podcasts: :speaker:
 
 - [Darknet Diaries](https://darknetdiaries.com/)
 - [Risky Business](https://risky.biz/)
@@ -102,7 +102,7 @@ Listen and learn from these informative podcasts and video channels:
 - [SimplyCyber (Daily Cyber Security Discussions)](https://www.youtube.com/@SimplyCyber)
 - [UnixGuy | Cyber Security)](https://www.youtube.com/@unixguy)
 
-# Conferences & Events
+# Conferences & Events: :calendar:
 
 Connect with the cybersecurity community at these upcoming conferences and events:
 
