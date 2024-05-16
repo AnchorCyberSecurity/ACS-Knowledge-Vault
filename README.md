@@ -91,7 +91,7 @@ Listen and learn from these informative podcasts and video channels:
 - [Risky Business](https://risky.biz/)
 - [Security Now](https://twit.tv/shows/security-now)
 
-## Video Channels:
+## Video Channels: :video_camera:
 
 - [CISO Series (Excellent Discussions!!)](https://www.youtube.com/@CISOSeries)
 - [David Bombal](https://www.youtube.com/@davidbombal)
@@ -101,7 +101,6 @@ Listen and learn from these informative podcasts and video channels:
 - [NetworkChuck](https://www.youtube.com/@NetworkChuck)
 - [SimplyCyber (Daily Cyber Security Discussions)](https://www.youtube.com/@SimplyCyber)
 - [UnixGuy | Cyber Security)](https://www.youtube.com/@unixguy)
-- 
 
 # Conferences & Events
 
