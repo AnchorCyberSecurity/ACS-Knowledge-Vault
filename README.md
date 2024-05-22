@@ -47,6 +47,7 @@ Expand your cybersecurity knowledge with these valuable resources:
 
 ## Tutorials: : :books:
 
+- [APISEC University](https://www.apisecuniversity.com)
 - [HTB](https://www.hackthebox.com/)
 - [OWASP Web Security Academy](https://owasp-academy.teachable.com/)
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
